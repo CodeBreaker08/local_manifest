@@ -9,6 +9,8 @@
 		fetch="https://github.com/CodeBreaker08" />
   <remote  name="clang"
 		fetch="https://github.com/Amritorock" />
+	<remote  name="PixelExperience"
+		fetch="https://github.com/PixelExperience" />
 
    <!-- Device Trees -->
    <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" revision="aosp-13" remote="CodeBreaker08" />
